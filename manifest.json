@@ -1,7 +1,12 @@
 {
   "name": "Gifrrit",
   "description": "Animated code reviews",
-  "version": "2.0",
+  "icons": {
+    "256": "icon256.png",
+    "128": "icon128.png",
+    "64": "icon64.png"
+  },
+  "version": "1.0",
   "permissions": [
     "activeTab"
   ],
